@@ -56,3 +56,4 @@ Done with the main task? Here's some ideas for things to continue with:
 
 - Read about [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) and make a copy of 5-objects.html called 5-classes.html and try to convert all of the tasks in there to use a Person and Dog class.
 - Build upon the Person class; write a function in the Person class which prints the name and age of the person when invoked.
+# chas_javascript2-main-2
